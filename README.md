@@ -52,6 +52,3 @@ npm start
 This will:
 	•	Open http://localhost:3000
 	•	Show the chessboard
-	•	Start the 8-minute timer
-	•	Let you collect points (100 win / 50 draw / 10 loss)
-	•	Open your resume when you hit 400 points
